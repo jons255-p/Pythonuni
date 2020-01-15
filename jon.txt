@@ -1,0 +1,8 @@
+x=10
+y=10
+pharse ="hello world"
+print(x)
+print(y)
+print(phrase)
+print(type(x))
+print(type(y))
